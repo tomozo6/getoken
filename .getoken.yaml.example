@@ -1,0 +1,17 @@
+default_env: prd
+
+envs:
+  prd:
+    apikey: xxxxxxxxxxxxxxxxxxxxxxx
+    email: tomohiro_sasaki@maas.jp.honda
+    password: prd-password
+
+  stg:
+    apikey: xxxxxxxxxxxxxxxxxxxxxxx
+    email: tomohiro_sasaki-stg@maas.jp.honda
+    password: stg-password
+
+  dev:
+    apikey: xxxxxxxxxxxxxxxxxxxxxxx
+    email: tomohiro_sasaki-dev@maas.jp.honda
+    password: dev-password
